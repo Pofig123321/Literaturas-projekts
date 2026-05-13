@@ -1,208 +1,124 @@
-\# 🌲 Meža meitenes
+# 🌲 Meža meitenes
 
+Mājaslapa par Sanitas Reinsones dokumentālo grāmatu **"Meža meitenes"** (2015).
 
+---
 
-Modernas un interaktīvs tīmekļa projekts par Sanitas Reinsones dokumentālo grāmatu \*\*"Meža meitenes"\*\*.
+## 📖 Par projektu
 
+Šī mājaslapa ir veltīta sievietēm, kuras pēc Otrā pasaules kara devās uz mežu un iesaistījās nacionālajā pretestības kustībā pret padomju okupāciju. Grāmata balstīta uz mutvārdu vēstures liecībām.
 
+**Mājaslapā iekļautas 7 sadaļas:**
+- Sākums (par grāmatu)
+- Autore (Sanita Reinsone)
+- Vide (Latvijas mežs, bunkuri)
+- Varoņi (Marija, Līga, Elza)
+- Atziņas (brīvības cena, sievietes spēks)
+- Kultūra (teātris, apbalvojumi)
+- Avoti (izmantotie resursi)
 
-!\[GitHub last commit](https://img.shields.io/badge/last%20commit-2025-blue)
+---
 
-!\[HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white)
-
-!\[CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
-
-!\[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
-
-
-
-\---
-
-
-
-\## 📖 Par projektu
-
-
-
-Šī mājaslapa ir veltīta Sanitas Reinsones grāmatai \*\*"Meža meitenes"\*\* (2015), kas vēsta par sievietēm, kuras pēc Otrā pasaules kara devās uz mežu un iesaistījās nacionālajā pretestības kustībā pret padomju okupāciju.
-
-
-
-\*\*Projekta mērķis:\*\* izveidot modernu, vizuāli pievilcīgu un informāciju bagātu vietni, kas apvieno literatūras analīzi ar mūsdienīgu dizainu un interaktivitāti.
-
-
-
-\*\*Galvenās tēmas:\*\*
-
-\- Grāmatas saturs un nozīme
-
-\- Autores Sanitas Reinsones biogrāfija un daiļrade
-
-\- Vides apraksts — Latvijas mežs un partizānu bunkuri
-
-\- Galveno varoņu raksturojums (Marija, Līga, Elza)
-
-\- Atziņas un galvenās idejas (brīvības cena, sievietes spēks, vēstures liecību vērtība)
-
-\- Grāmatas kultūras nozīme (teātris, apbalvojumi)
-
-
-
-\---
-
-
-
-\## 🚀 Funkcionalitāte
-
-
-
-\- ✅ 7 interaktīvas sadaļas (Sākums, Autore, Vide, Varoņi, Atziņas, Kultūra, Avoti)
-
-\- ✅ Animēta sadaļu pārslēgšanās
-
-\- ✅ Responsīvs dizains (piemērots datoram, planšetei un mobilajām ierīcēm)
-
-\- ✅ Moderns tumšais meža stils ar sānu navigācijas joslu
-
-\- ✅ Dekoratīvi elementi (priežu zari fonā)
-
-\- ✅ Hover efekti attēliem un kartēm
-
-\- ✅ Video atskaņotājs
-
-\- ✅ Ārējo avotu saites
-
-
-
-\---
-
-
-
-\## 🛠️ Izmantotās tehnoloģijas
-
-
+## 🛠️ Izmantotās tehnoloģijas
 
 | Tehnoloģija | Apraksts |
-
 |-------------|----------|
+| HTML5 | Mājaslapas struktūra |
+| CSS3 | Dizains, animācijas, responsīvais izkārtojums |
+| JavaScript | Sadaļu pārslēgšana, interaktivitāte |
+| Font Awesome 6.5.1 | Ikonas navigācijai |
+| Google Fonts | Montserrat un Cormorant Garamond fonti |
 
-| \*\*HTML5\*\* | Mājaslapas struktūra |
+---
 
-| \*\*CSS3\*\* | Dizains, animācijas, responsīvais izkārtojums |
-
-| \*\*JavaScript (ES6)\*\* | Interaktivitāte un sadaļu pārslēgšana |
-
-| \*\*Font Awesome 6.5.1\*\* | Ikonas |
-
-| \*\*Google Fonts\*\* | Montserrat un Cormorant Garamond fonti |
-
-
-
-\---
-
-
-
-\## 📂 Failu struktūra
-
-meza-meitenes/
-
+## 📂 Failu struktūra
+Meža meitenes/
 │
-
 ├── index.html # Galvenais HTML fails
-
 ├── style.css # Visi stili un animācijas
-
 ├── script.js # JavaScript funkcionalitāte
-
 │
-
 ├── cover.jpg # Grāmatas vāka attēls
-
 ├── author.jpg # Sanitas Reinsones portrets
-
 ├── bg.jpg # Fona attēls (mežs)
-
 │
-
 ├── bunkeroutside.jpg # Partizānu bunkurs (ārpuse)
-
 ├── bunkerinside.jpg # Partizānu bunkurs (iekšpuse)
-
 ├── winter.jpg # Latvijas mežs ziemā
-
-├── ileoutside.jpg # Īles bunkurs
-
+├── ileoutside.jpg # Īles bunkura rekonstrukcija
 │
-
 ├── female1.jpg # Marijas portrets
-
 ├── female2.jpg # Līgas portrets
-
 ├── female3.jpg # Elzas portrets ("Meža roze")
-
 │
-
 └── theatre.mp4 # Teātra izrādes video fragments
 
 
+---
 
+## 📅 Projekta izstrādes gaita
 
+| Izmaiņas |
+|----------|
+| Izveidota HTML struktūra ar 7 sadaļām |
+| Pievienots CSS dizains (tumšais meža stils) |
+| Uzrakstīts JavaScript sadaļu pārslēgšanai |
+| Pievienota sānu navigācijas josla (sidebar) |
+| Pievienoti visi attēli (bunkuri, mežs, portreti) |
+| Pievienots video fragments no izrādes |
+| Palielināts fonta izmērs (labākai salasāmībai) |
+| Pievienoti dekoratīvie elementi (priežu zari fonā) |
+| Pievienoti fakti par grāmatu un citāti |
+| Responsīvais dizains mobilajām ierīcēm |
+| Pievienoti varoņu sīkāki apraksti |
 
+---
 
+## 🎨 Dizaina koncepcija
 
-> ⚠️ \*\*Piezīme:\*\* Visiem attēliem ir iekļauts rezerves variants (placeholder), ja fails netiek atrasts.
+- **Krāsu gamma:** tumši zaļa, pelēcīgi zaļa, smilšu krāsa
+- **Fons:** meža ainava ar tumšu pārklājumu un priežu zaru dekorācijām
+- **Navigācija:** sānu josla (sidebar) ar ikonām
+- **Animācijas:** fadeInUp, hover efekti
 
+---
 
-
-\---
-
-
-
-\## 🎨 Dizaina koncepcija
-
-
-
-\- \*\*Krāsu gamma:\*\* tumši zaļa, pelēcīgi zaļa, smilšu krāsa — iedvesmojoties no Latvijas meža un vēsturiskām fotogrāfijām
-
-\- \*\*Fons:\*\* meža ainava ar tumšu pārklājumu teksta salasāmībai un priežu zaru dekorācijām
-
-\- \*\*Navigācija:\*\* sānu josla (sidebar) ar ikonām un aktīvās sadaļas izcelšanu
-
-\- \*\*Animācijas:\*\* lēna izzušana un parādīšanās (fadeInUp), hover efekti pogām un kartēm
-
-
-
-\---
-
-
-
-\## 📱 Responsīvais dizains
-
-
+## 📱 Responsīvais dizains
 
 | Ierīce | Izmaiņas |
-
 |--------|----------|
+| Dators | Pilna izmēra sānu josla |
+| Planšete | Sānu josla sašaurināta |
+| Mobilais | Sānu josla minimāla, vertikāls izkārtojums |
 
-| \*\*Dators (>900px)\*\* | Pilna izmēra sānu josla (280px) |
+---
 
-| \*\*Planšete (600-900px)\*\* | Sānu josla sašaurināta līdz 80px, paslēpti teksti |
+## 📚 Atsauces un avoti
 
-| \*\*Mobilais (<600px)\*\* | Sānu josla 60px, konteiners šaurāks, vertikāls izkārtojums |
+- [Dienas Grāmata](https://www.dienasgramata.lv/gramata/meza-meitenes/) — izdevniecība
+- [Latvijas Nacionālais teātris](https://www.teatris.lv/lv/izrade/meza_meitenes) — izrādes arhīvs
+- [LSM.lv](https://www.lsm.lv/raksts/kultura/literatura/meza-meitenes-sanitas-reinsones-dokumentalais-stasts-par-aizmirstajam-varonem.a125526/) — materiāli par grāmatu
+- [Okupācijas muzejs](https://www.okupacijasmuzejs.lv) — fotoarhīvs
+- [Military Heritage Tourism](https://militaryheritagetourism.info/lv) — vēsturiskās fotogrāfijas
+- [Lietonika.lv](https://lietonika.lv) — Latvijas vēstures materiāli
+- [Valmieras teātris YouTube](https://www.youtube.com/@ValmierasTeatris) — video materiāli
 
+---
 
+## 👨‍💻 Autors
 
-\---
+Projekts izstrādāts skolas projekta ietvaros latviešu literatūras priekšmetā.
 
+**Tēma:** Sanitas Reinsones grāmata "Meža meitenes"
 
+---
 
-\## 🔧 Kā palaist projektu lokāli
+## ✨ Veltījums
 
+**Veltījums visām meža meitenēm — Latvijas brīvības cīnītājām.**
 
+> *"Mēs bijām ne tikai meža māsas, mēs bijām karotājas."*
 
-1\. \*\*Lejupielādē repozitoriju:\*\*
+---
 
-&#x20;  ```bash
-
-&#x20;  git clone https://github.com/tavs-lietotajvards/meza-meitenes.git
-
+*Sanita Reinsone · Meža meitenes · Nacionālā pretestība · 1944–1956*

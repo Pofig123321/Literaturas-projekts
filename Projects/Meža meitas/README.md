@@ -9,6 +9,7 @@ Mājaslapa par Sanitas Reinsones dokumentālo grāmatu **"Meža meitas"** (2015)
 Šī mājaslapa ir veltīta sievietēm, kuras pēc Otrā pasaules kara devās uz mežu un iesaistījās nacionālajā pretestības kustībā pret padomju okupāciju. Grāmata balstīta uz mutvārdu vēstures liecībām.
 
 **Mājaslapā iekļautas 7 sadaļas:**
+
 - Sākums (par grāmatu)
 - Autore (Sanita Reinsone)
 - Vide (Latvijas mežs, bunkuri)
@@ -71,6 +72,9 @@ Meža meitas/
 | Pievienoti fakti par grāmatu un citāti |
 | Responsīvais dizains mobilajām ierīcēm |
 | Pievienoti varoņu sīkāki apraksti |
+| **Palielināti varoņu fotoattēli (no 170x170px uz 220x220px)** |
+| **Paplašinātas varoņu kartītes (no 300px uz 360px)** |
+| **Pievienots dekoratīvs elements sānu joslā** |
 
 ---
 

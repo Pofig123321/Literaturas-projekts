@@ -1,204 +1,114 @@
-# \# 🎭 Skroderdienas Silmačos
+# 🎭 Skroderdienas Silmačos
 
-# 
+Mājaslapa par Rūdolfa Blaumaņa komēdiju **"Skroderdienas Silmačos"** (1902).
 
-# Modernas un interaktīvs tīmekļa projekts par Rūdolfa Blaumaņa komēdiju \*\*"Skroderdienas Silmačos"\*\*.
+---
 
-# 
+## 📖 Par projektu
 
-# !\[GitHub last commit](https://img.shields.io/badge/last%20commit-2025-blue)
+Šī mājaslapa ir veltīta vienai no slavenākajām latviešu dramaturģijas komēdijām. Projekts apvieno literatūras analīzi ar mūsdienīgu dizainu, animācijām un interaktīviem elementiem.
 
-# !\[HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white)
+**Mājaslapā iekļautas 7 sadaļas:**
+- Sākums (par lugu)
+- Autors (Rūdolfs Blaumanis)
+- Vide (Silmači, Jāņu tradīcijas)
+- Varoņi (Antonija, Rūdis, Joske)
+- Atziņas (galvenās idejas)
+- Kultūra (teātris, izrādes)
+- Atsauces (avoti)
 
-# !\[CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
+---
 
-# !\[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+## 🛠️ Izmantotās tehnoloģijas
 
-# 
+| Tehnoloģija | Apraksts |
+|-------------|----------|
+| HTML5 | Mājaslapas struktūra |
+| CSS3 | Dizains, animācijas, responsīvais izkārtojums |
+| JavaScript | Sadaļu pārslēgšana, interaktivitāte |
+| Font Awesome 6.5.1 | Ikonas navigācijai |
+| Google Fonts | Montserrat un Playfair Display fonti |
 
-# \---
+---
 
-# 
+## 📂 Failu struktūra
+Skroderdienas Silmačos/
+│
+├── index.html # Galvenais HTML fails
+├── style.css # Visi stili un animācijas
+├── script.js # JavaScript funkcionalitāte
+│
+├── background.jpg # Fona attēls
+├── cover.jpg # Lugas vāka attēls
+├── portrait.jpg # Rūdolfa Blaumaņa portrets
+├── farm.webp # Silmaču sētas attēls
+├── festival.jpg # Jāņu svinību attēls
+├── antonija.jpg # Antonijas portrets
+├── rudis.jpg # Rūža portrets
+├── joske.jpg # Joskes portrets
+│
+└── theatre.mp4 # Video fragments no izrādes
 
-# \## 📖 Par projektu
 
-# 
+---
 
-# Šī mājaslapa ir veltīta Rūdolfa Blaumaņa lugai \*\*"Skroderdienas Silmačos"\*\* (1902) — vienai no slavenākajām un nozīmīgākajām latviešu dramaturģijas komēdijām.
+## 📅 Projekta izstrādes gaita
 
-# 
+| Izmaiņas |
+|----------|
+| Izveidota HTML struktūra ar 7 sadaļām |
+| Pievienots CSS dizains (tumšais teātra stils, animācijas) |
+| Uzrakstīts JavaScript sadaļu pārslēgšanai |
+| Pievienoti visi attēli (cover, portrets, varoņi) |
+| Pievienots video fragments no izrādes |
+| Uzlabots teksta izmērs un salasāmība |
+| Pievienotas atziņas ar pamatojumu no teksta |
+| Responsīvais dizains mobilajām ierīcēm |
+| Pēdējie dizaina uzlabojumi (hover efekti, ēnas) |
 
-# \*\*Projekta mērķis:\*\* izveidot modernu, vizuāli pievilcīgu un informāciju bagātu vietni, kas apvieno literatūras analīzi ar mūsdienīgu dizainu un interaktivitāti.
+---
 
-# 
+## 🎨 Dizaina koncepcija
 
-# \*\*Galvenās tēmas:\*\*
+- **Krāsu gamma:** tumši brūna, zelta, smilšu krāsa
+- **Fons:** teātra aizkara efekts ar tumšu pārklājumu
+- **Navigācija:** cilnes (tabs) ar ikonām
+- **Animācijas:** fadeSlide, hover efekti
 
-# \- Lugas saturs un sižets
+---
 
-# \- Autora Rūdolfa Blaumaņa biogrāfija un daiļrade
+## 📱 Responsīvais dizains
 
-# \- Vides apraksts — Silmaču sēta un Jāņu tradīcijas
+| Ierīce | Izmaiņas |
+|--------|----------|
+| Dators | Pilns dizains |
+| Planšete | Samazināti fonti |
+| Mobilais | Vertikāls izkārtojums |
 
-# \- Galveno varoņu raksturojums (Antonija, Rūdis, Joske)
+---
 
-# \- Atziņas un galvenās idejas
+## 📚 Atsauces un avoti
 
-# \- Lugas kultūras nozīme Latvijā
+- [Wikipedia par Rūdolfu Blaumani](https://lv.wikipedia.org/wiki/Rūdolfs_Blaumanis)
+- [Wikipedia par lugu "Skroderdienas Silmačos"](https://lv.wikipedia.org/wiki/Skroderdienas_Silmačos)
+- [Literatura.lv](https://www.literatura.lv/personas/rudolfs-blaumanis)
 
-# 
+---
 
-# \---
+## 👨‍💻 Autors
 
-# 
+Projekts izstrādāts skolas projekta ietvaros latviešu literatūras priekšmetā.
 
-# \## 🚀 Funkcionalitāte
+**Tēma:** Rūdolfa Blaumaņa luga "Skroderdienas Silmačos"
 
-# 
+---
 
-# \- ✅ 7 interaktīvas sadaļas (Sākums, Autors, Vide, Varoņi, Atziņas, Kultūra, Atsauces)
+## ✨ Veltījums
 
-# \- ✅ Animēta sadaļu pārslēgšanās
+**Mīlestībai, smiekliem un Jāņu naktij – veltījums Rūdolfam Blaumanim.**
 
-# \- ✅ Responsīvs dizains (piemērots datoram, planšetei un mobilajām ierīcēm)
+> *"Sirds liek darīt trakas lietas."* — Rūdis
 
-# \- ✅ Moderns tumšais teātra stils
+---
 
-# \- ✅ Hover efekti attēliem un kartēm
-
-# \- ✅ Video atskaņotājs
-
-# \- ✅ Ārējo avotu saites
-
-# 
-
-# \---
-
-# 
-
-# \## 🛠️ Izmantotās tehnoloģijas
-
-# 
-
-# | Tehnoloģija | Apraksts |
-
-# |-------------|----------|
-
-# | \*\*HTML5\*\* | Mājaslapas struktūra |
-
-# | \*\*CSS3\*\* | Dizains, animācijas, responsīvais izkārtojums |
-
-# | \*\*JavaScript (ES6)\*\* | Interaktivitāte un sadaļu pārslēgšana |
-
-# | \*\*Font Awesome 6.5.1\*\* | Ikonas |
-
-# | \*\*Google Fonts\*\* | Montserrat un Playfair Display fonti |
-
-# 
-
-# \---
-
-# 
-
-# \## 📂 Failu struktūra
-
-# skroderdienas-silmacos/
-
-# │
-
-# ├── index.html # Galvenais HTML fails
-
-# ├── style.css # Visi stili un animācijas
-
-# ├── script.js # JavaScript funkcionalitāte
-
-# │
-
-# ├── background.jpg # Fona attēls
-
-# ├── cover.jpg # Lugas vāka attēls
-
-# ├── portrait.jpg # Rūdolfa Blaumaņa portrets
-
-# ├── farm.webp # Silmaču sētas attēls
-
-# ├── festival.jpg # Jāņu svinību attēls
-
-# ├── antonija.jpg # Antonijas portrets
-
-# ├── rudis.jpg # Rūža portrets
-
-# ├── joske.jpg # Joskes portrets
-
-# │
-
-# └── theatre.mp4 # Video fragments no izrādes
-
-# 
-
-
-
-
-
-
-
-
-
-
-
-# > ⚠️ \*\*Piezīme:\*\* Visiem attēliem ir iekļauts rezerves variants (placeholder), ja fails netiek atrasts.
-
-# 
-
-# \---
-
-# 
-
-# \## 🎨 Dizaina koncepcija
-
-# 
-
-# \- \*\*Krāsu gamma:\*\* tumši brūna, zelta, smilšu krāsa — iedvesmojoties no teātra atmosfēras un Jāņu nakts noskaņas
-
-# \- \*\*Fons:\*\* teātra aizkara efekts ar tumšu pārklājumu teksta salasāmībai
-
-# \- \*\*Navigācija:\*\* cilnes (tabs) ar ikonām un aktīvās sadaļas izcelšanu
-
-# \- \*\*Animācijas:\*\* lēna izzušana un parādīšanās (fadeSlide), hover efekti pogām un kartēm
-
-# 
-
-# \---
-
-# 
-
-# \## 📱 Responsīvais dizains
-
-# 
-
-# | Ierīce | Izmaiņas |
-
-# |--------|----------|
-
-# | \*\*Dators (>768px)\*\* | Pilna izmēra dizains ar visām animācijām |
-
-# | \*\*Planšete (768px)\*\* | Samazināti fonti, paslēpti mazie burtiņi cilnēs |
-
-# | \*\*Mobilais (<480px)\*\* | Konteiners šaurāks, vertikāls izkārtojums |
-
-# 
-
-# \---
-
-# 
-
-# \## 🔧 Kā palaist projektu lokāli
-
-# 
-
-# 1\. \*\*Lejupielādē repozitoriju:\*\*
-
-# &#x20;  ```bash
-
-# &#x20;  git clone https://github.com/tavs-lietotajvards/skroderdienas-silmacos.git
-
+*Rūdolfs Blaumanis · Skroderdienas Silmačos · 1902*

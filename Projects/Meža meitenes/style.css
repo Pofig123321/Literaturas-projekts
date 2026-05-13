@@ -901,18 +901,4 @@ body::after {
     opacity: 0.4;
     transition: 0.3s;
     }
-
-    .sidebar-symbol:hover {
-        opacity: 0.8;
-    }
-    .menu-decoration {
-    text-align: center;
-    margin-top: 35px;
-    padding: 15px 0;
-    font-size: 0.8rem;
-    letter-spacing: 5px;
-    color: #6b8c4a;
-    opacity: 0.4;
-    border-top: 1px solid rgba(120, 90, 50, 0.2);
-}
 }

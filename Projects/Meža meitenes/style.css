@@ -893,4 +893,16 @@ body::after {
     .hero-card-new h3 {
         font-size: 1.4rem;
     }
+    .sidebar-symbol {
+    margin-top: 25px;
+    text-align: center;
+    font-size: 1.8rem;
+    color: #6b8c4a;
+    opacity: 0.4;
+    transition: 0.3s;
+}
+
+.sidebar-symbol:hover {
+    opacity: 0.8;
+}
 }

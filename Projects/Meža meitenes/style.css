@@ -564,32 +564,33 @@ body::after {
     gap: 40px;
     flex-wrap: wrap;
     justify-content: center;
-    margin-bottom: 35px;
+    margin-bottom: 40px;
 }
 
 .hero-card-new {
     background: rgba(25, 30, 20, 0.6);
-    border-radius: 24px;
-    padding: 30px 22px;
-    width: 300px;
+    border-radius: 28px;
+    padding: 35px 25px;
+    width: 360px;
     text-align: center;
     transition: 0.3s;
-    border: 1px solid rgba(120, 90, 50, 0.2);
+    border: 1px solid rgba(120, 90, 50, 0.25);
 }
 
 .hero-card-new:hover {
-    transform: translateY(-5px);
+    transform: translateY(-8px);
     border-color: #6b8c4a;
     background: rgba(35, 45, 28, 0.7);
 }
 
 .hero-image {
-    width: 170px;
-    height: 170px;
-    margin: 0 auto 18px;
+    width: 220px;
+    height: 220px;
+    margin: 0 auto 22px;
     border-radius: 50%;
     overflow: hidden;
-    border: 3px solid #6b8c4a;
+    border: 4px solid #6b8c4a;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
 }
 
 .hero-image img {
@@ -599,32 +600,34 @@ body::after {
 }
 
 .hero-card-new h3 {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     color: #d4e8b8;
-    margin-bottom: 12px;
+    margin-bottom: 15px;
 }
 
 .hero-card-new p {
-    font-size: 0.95rem;
-    line-height: 1.5;
-    margin-bottom: 18px;
+    font-size: 0.98rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    color: #d0e0c0;
 }
 
 .hero-quote-new {
     font-style: italic;
-    font-size: 0.9rem;
+    font-size: 0.92rem;
     color: #9ab87c;
     background: rgba(100, 80, 50, 0.2);
-    padding: 10px 14px;
-    border-radius: 25px;
+    padding: 10px 16px;
+    border-radius: 28px;
+    display: inline-block;
 }
 
 .heroes-note {
     text-align: center;
-    font-size: 0.95rem;
+    font-size: 0.96rem;
     color: #b8c8a0;
     padding-top: 25px;
-    border-top: 1px solid rgba(120, 90, 50, 0.2);
+    border-top: 1px solid rgba(120, 90, 50, 0.25);
     margin-top: 10px;
 }
 
@@ -823,6 +826,14 @@ body::after {
     body::after {
         opacity: 0.05;
     }
+    .hero-card-new {
+        width: 320px;
+        padding: 30px 20px;
+    }
+    .hero-image {
+        width: 190px;
+        height: 190px;
+    }
 }
 
 @media (max-width: 600px) {
@@ -870,5 +881,16 @@ body::after {
     }
     body::after {
         opacity: 0;
+    }
+    .hero-card-new {
+        width: 280px;
+        padding: 25px 18px;
+    }
+    .hero-image {
+        width: 160px;
+        height: 160px;
+    }
+    .hero-card-new h3 {
+        font-size: 1.4rem;
     }
 }

@@ -900,9 +900,24 @@ body::after {
     color: #6b8c4a;
     opacity: 0.4;
     transition: 0.3s;
-}
+    }
 
-.sidebar-symbol:hover {
-    opacity: 0.8;
-}
+    .sidebar-symbol:hover {
+        opacity: 0.8;
+    }
+    .menu-image {
+        text-align: center;
+        margin: 20px 0 10px 0;
+        padding: 10px 0;
+    }
+
+    .menu-image img {
+        max-width: 80px;
+        opacity: 0.5;
+        transition: 0.3s;
+    }
+
+    .menu-image img:hover {
+        opacity: 0.8;
+    }
 }
